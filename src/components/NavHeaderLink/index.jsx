@@ -6,7 +6,15 @@ const StyledNavHeaderLink = styled.a`
   align-items: center;
   padding: 0.625rem 0.9375rem;
   text-decoration: none;
-  gap: .3125rem;
+  gap: 0.3125rem;
+  border-radius: 16px;
+  border: 1px solid rgba(255, 169, 0, 0.45);
+  background: #fff8eb;
+  transition: background 0.3s ease;
+  color: #0a0a0a;
+  &:hover {
+    background: #ffe8bc;
+  }
 `;
 
 function NavHeaderLink({ href, src, alt, text }) {
