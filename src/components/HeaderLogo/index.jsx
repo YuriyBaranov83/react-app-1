@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import logo from "../../images/logo-header.svg"
+import logo from "../../images/icons/logo-header.svg"
 
 const StyledHeaderLogo = styled.a`
     

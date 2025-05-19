@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import logoBurger from "../../images/logo-burger.svg";
-import logoClose from "../../images/logo-close.svg";
+import logoBurger from "../../images/icons/logo-burger.svg";
+import logoClose from "../../images/icons/logo-close.svg";
 
 const StyledHeaderCatalogBurger = styled.div`
   display: flex;

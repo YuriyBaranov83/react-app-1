@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import logoSearch from "../../images/search.svg";
+import logoSearch from "../../images/icons/search.svg";
 
 const StyledHeaderSearch = styled.div`
   position: relative;

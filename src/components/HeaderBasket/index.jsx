@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import logoBasket from "../../images/logo-basket.svg"
+import logoBasket from "../../images/icons/logo-basket.svg"
 
 const StyledHeaderBasket = styled.div`
 border-radius: 1rem;
