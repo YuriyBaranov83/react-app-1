@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
 const StyledContainer = styled.div`
-  max-width: 1330px;
+  max-width: 83.125rem;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 1.25rem;
 `;
 
 function Container({ children }) {
